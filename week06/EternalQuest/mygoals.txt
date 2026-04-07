@@ -1,0 +1,3 @@
+1000
+SimpleGoal:Read scriptures daily,Study one chapter,75,False
+ChecklistGoal:Temple names,Prepare names for temple work,100,0,10,500
